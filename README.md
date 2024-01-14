@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Furaha Maxwell egesa
+- 👋 Hi, I’m Furaha Maxwell Egesa
 - 👀 I’m interested in learning new advancements in Technology and also developing solutions for problems using technology
 - 🌱 I’m currently learning Bsc Applied Computer Science at Chuka University Kenya.
 - 💞️ I’m looking to collaborate on different projects and working on variety of ideas with fellow tech enthusiasts.
