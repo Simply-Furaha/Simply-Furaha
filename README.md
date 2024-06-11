@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **maxwellfuraha91@gmail.com**
 
-- ⚡ Fun fact **I just solving problems using tech**
+- ⚡ Fun fact **I just love solving problems using tech**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
