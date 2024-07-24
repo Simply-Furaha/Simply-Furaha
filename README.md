@@ -7,15 +7,15 @@
 
 - 🔭 I’m currently working on **Sofware Engineering.**
 
-- 🌱 I’m currently learning **Software Engineering at Moringa School**
+- 🌱 I’m currently learning **Software Engineering at Moringa School.**
 
-- 👯 I’m looking to collaborate on **Any Tech project**
+- 👯 I’m looking to collaborate on **Any Tech project.**
 
 - 🤝 I’m looking for help with [GuessGame](https://github.com/Simply-Furaha/GuessGame)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Simply-Furaha/](https://github.com/Simply-Furaha/)
 
-- 💬 Ask me about **Software Development, Android, DataBase**
+- 💬 Ask me about **Software Development, Android, DataBase.**
 
 - 📫 How to reach me **maxwellfuraha91@gmail.com**
 
