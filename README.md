@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Software Engineering at Moringa School.**
 
-- 👯 I’m looking to collaborate on **Any Tech project.**
+- 👯
 
 - 🤝 I’m looking for help with [GuessGame](https://github.com/Simply-Furaha/GuessGame)
 
