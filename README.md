@@ -9,10 +9,6 @@
 
 - 🌱 I’m currently learning **Software Engineering at Moringa School.**
 
-- 👯
-
-- 🤝 I’m looking for help with [GuessGame](https://github.com/Simply-Furaha/GuessGame)
-
 - 👨‍💻 All of my projects are available at [https://github.com/Simply-Furaha/](https://github.com/Simply-Furaha/)
 
 - 💬 Ask me about **Software Development, Android, DataBase.**
