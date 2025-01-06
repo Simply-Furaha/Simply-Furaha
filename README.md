@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=simply-furaha" alt="simply-furaha" /></a> </p>
 
-- 🔭 I’m currently working on **Sofware Engineering.**
+- 🔭 I’m a FullStack **Sofware Engineer.**
 
-- 🌱 I’m currently learning **Software Engineering at Moringa School.**
+- 🌱 I studied **Software Engineering at Moringa School.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Simply-Furaha/](https://github.com/Simply-Furaha/)
 
