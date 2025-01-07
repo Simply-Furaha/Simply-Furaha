@@ -7,7 +7,7 @@
 
 - 🔭 I’m a FullStack **Sofware Engineer.**
 
-- 🌱 I studied **Software Engineering at Moringa School.**
+- 🌱 I studied **Computer Science from Chuka University** and **Software Engineering at Moringa School.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Simply-Furaha/](https://github.com/Simply-Furaha/)
 
