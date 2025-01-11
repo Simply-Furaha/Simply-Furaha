@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Software Development, Android, DataBase.**
 
-- 📫 How to reach me **maxwellfuraha91@gmail.com**
+- 📫 Email me at **maxwellfuraha91@gmail.com**
 
 - ⚡ Fun fact **I just love solving problems using tech**
 
