@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Simply-Furaha/](https://github.com/Simply-Furaha/)
 
-- 💬 Let's talk about **Software Development, Android, DataBase Adminstration.**
+- 💬 Let's talk about **Software Development, Android, DataBase Adminstration and SEO.**
 
 - 📫 Email me at **maxwellfuraha91@gmail.com**
 
