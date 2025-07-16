@@ -17,7 +17,7 @@
 
 - 🌀 LinkedIn https://www.linkedin.com/in/maxwell-furaha-19654324b/
 
-- ⚡ Fun fact **I just love solving problems using tech*
+- ⚡ Fun fact **I just love solving problems using tech*.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
