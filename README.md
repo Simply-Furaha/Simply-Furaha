@@ -10,6 +10,4 @@ Software Engineer · Full-Stack Developer
 <a href="mailto:maxwellfuraha91@gmail.com">Email</a>
 </p>
 
-<p align="center">
-JavaScript · Python · PHP · Java · React · Node.js · Laravel · MySQL
-</p>
+
